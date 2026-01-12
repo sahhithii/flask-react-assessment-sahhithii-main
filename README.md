@@ -1,4 +1,7 @@
 # Flask React Template
+## Task 1 – Comments CRUD
+
+This branch implements CRUD APIs for task comments along with automated tests.
 
 Boilerplate project for Flask, React & MongoDB based projects. This README documents the steps necessary to get the application up and running, and various components of the application.
 
